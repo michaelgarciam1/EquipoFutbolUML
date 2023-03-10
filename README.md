@@ -12,6 +12,6 @@ Realizaremos un diagrama UML de la administración de un equipo de fútbol. En e
 <br>
 
 
-
+## Solución:
   ![image](https://user-images.githubusercontent.com/114613053/224359561-fb01cd54-00f7-42ec-a8b5-b66582c67462.png)
 
